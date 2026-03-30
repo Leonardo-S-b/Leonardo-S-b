@@ -12,11 +12,21 @@
 
 ---
 
-## 🧠 Tecnologias & Ferramentas
+## 🧠 Tecnologias principais
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,nodejs,html,css,git,github,vscode, express, flutter,react,typescript" />
+<img src="https://skillicons.dev/icons?i=js,nodejs,express,html,css,git,github,vscode" />
+
+</div>
+
+---
+
+## 📚 Atualmente estudando
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=flutter,react,typescript" />
 
 </div>
 
@@ -26,9 +36,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leonardo-S-b&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Leonardo-S-b&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SLeonardo-S-b&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-S-b&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -38,7 +48,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SEU_USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Leonardo-S-b&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -56,16 +66,21 @@
 
 ## 🏗️ Projetos em destaque
 
-- 💳 **Sistema Bancário em JavaScript**
-  - Cadastro, saque, extrato e análise de crédito
-  - Foco em lógica e estrutura de dados
+### 💳 Sistema Bancário em JavaScript
+- Cadastro de usuários
+- Saque e depósito
+- Extrato
+- Futuro: análise de crédito
 
-- 🌐 **Projeto Web com HTML e CSS**
-  - Estrutura de navegação e responsividade básica
- 
-  - 🌐 **Projeto Web com FLutter**
-  - Estrutura de navegação e responsividade básica
-  - chamada de API para busca de cidade e clima
+### 🌦️ App de Meteorologia (Flutter)
+- Consumo de API de clima
+- Busca por cidade
+- Interface mobile
+- Estrutura de navegação
+
+### 🌐 Projeto Web (HTML & CSS)
+- Estrutura de navegação
+- Responsividade básica
 
 ---
 
@@ -89,6 +104,6 @@
 
 ---
 
-## ✨ Frase
+## ✨ Filosofia
 
-> "Código limpo não é escrito por acaso, é construído com disciplina."
+> Código limpo, simples e funcional sempre vence complexidade desnecessária.
