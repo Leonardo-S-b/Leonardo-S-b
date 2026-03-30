@@ -36,9 +36,7 @@
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Leonardo-S-b&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-S-b&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=Leonardo-S-b&theme=tokyonight&no-frame=true&row=1&column=6" /> 
 
 </div>
 
