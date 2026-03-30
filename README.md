@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Larissa Kich
+# 👩🏻‍💻 Leonardo Bezerra
 
 **`Desenvolvedor FullStack`**
 Olá me chamo Leonardo Bezerra tenho 22 anos sou um jovem desenvolvedor em busca da primeira oportunidade, terminei o ensino médio pelo supletivo por causa que o exército brasileiro demandava muito tempo!
