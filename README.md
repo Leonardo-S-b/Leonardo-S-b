@@ -16,7 +16,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,nodejs,html,css,git,github,vscode, express, flutter, react, typescript" />
+<img src="https://skillicons.dev/icons?i=js,nodejs,html,css,git,github,vscode, express, flutter,react,typescript" />
 
 </div>
 
@@ -26,9 +26,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leonardo-S-b&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SLeonardo-S-b&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
