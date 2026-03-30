@@ -36,7 +36,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Leonardo-S-b&theme=tokyonight&no-frame=true&row=1&column=6" /> 
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Leonardo-S-b&show_icons=true" /> 
 
 </div>
 
