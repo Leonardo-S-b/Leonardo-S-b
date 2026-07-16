@@ -1,0 +1,38 @@
+<svg width="1200" height="820" viewBox="0 0 1200 820" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="820" rx="28" fill="#E9E0D2"/>
+  <text x="48" y="50" fill="#171717" font-family="Arial" font-size="14" font-weight="900" letter-spacing="2">BOARD / PROJETOS</text>
+  <text x="48" y="96" fill="#171717" font-family="Arial" font-size="31" font-weight="900">Projetos em contexto.</text>
+  <text x="48" y="126" fill="#5C5852" font-family="Arial" font-size="17">Arquitetura, decisões e resultado. Não apenas tecnologias.</text>
+
+  <g transform="translate(48 164)">
+    <rect width="1104" height="138" rx="20" fill="#171717"/>
+    <text x="26" y="38" fill="#F45B3A" font-family="Arial" font-size="13" font-weight="900" letter-spacing="2">APP-01 / CASE PRINCIPAL</text>
+    <text x="26" y="81" fill="#F7F3EA" font-family="Arial" font-size="29" font-weight="900">Clima Agora</text>
+    <text x="280" y="81" fill="#BEB7AA" font-family="Arial" font-size="17">Clima, geolocalização, rotas e planejamento de viagem.</text>
+    <text x="26" y="112" fill="#F45B3A" font-family="Arial" font-size="12" font-weight="900">FLUTTER · NODE · DOCKER</text>
+  </g>
+
+  <g transform="translate(48 322)">
+    <rect width="1104" height="138" rx="20" fill="#F7F3EA" stroke="#171717" stroke-width="2"/>
+    <text x="26" y="38" fill="#8D3825" font-family="Arial" font-size="13" font-weight="900" letter-spacing="2">API-03 / BACKEND</text>
+    <text x="26" y="81" fill="#171717" font-family="Arial" font-size="29" font-weight="900">AgenViagem</text>
+    <text x="280" y="81" fill="#5C5852" font-family="Arial" font-size="17">Autenticação, auditoria, documentação e controle de acesso.</text>
+    <text x="26" y="112" fill="#8D3825" font-family="Arial" font-size="12" font-weight="900">TYPESCRIPT · PRISMA · JWT</text>
+  </g>
+
+  <g transform="translate(48 480)">
+    <rect width="1104" height="138" rx="20" fill="#F7F3EA" stroke="#171717" stroke-width="2"/>
+    <text x="26" y="38" fill="#8D3825" font-family="Arial" font-size="13" font-weight="900" letter-spacing="2">ARC-02 / DEEP DIVE</text>
+    <text x="26" y="81" fill="#171717" font-family="Arial" font-size="29" font-weight="900">Minhas Economias</text>
+    <text x="334" y="81" fill="#5C5852" font-family="Arial" font-size="17">Controle financeiro, API, persistência e sincronização.</text>
+    <text x="26" y="112" fill="#8D3825" font-family="Arial" font-size="12" font-weight="900">FLUTTER · EXPRESS · POSTGRES</text>
+  </g>
+
+  <g transform="translate(48 638)">
+    <rect width="1104" height="138" rx="20" fill="#F45B3A"/>
+    <text x="26" y="38" fill="#171717" font-family="Arial" font-size="13" font-weight="900" letter-spacing="2">WEB-04 / PRODUTO REAL</text>
+    <text x="26" y="81" fill="#171717" font-family="Arial" font-size="29" font-weight="900">Mauricio Furquin</text>
+    <text x="334" y="81" fill="#582318" font-family="Arial" font-size="17" font-weight="800">Galerias, uploads, autenticação e painel administrativo.</text>
+    <text x="26" y="112" fill="#171717" font-family="Arial" font-size="12" font-weight="900">REACT · TYPESCRIPT · MYSQL</text>
+  </g>
+</svg>

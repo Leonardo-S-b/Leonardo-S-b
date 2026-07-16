@@ -1,0 +1,41 @@
+<svg width="1200" height="450" viewBox="0 0 1200 450" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="450" rx="28" fill="#171717"/>
+  <text x="48" y="50" fill="#F45B3A" font-family="Arial" font-size="14" font-weight="900" letter-spacing="2">ABOUT / SISTEMA INTEIRO</text>
+  <path d="M48 70H1152" stroke="#3D3A36" stroke-width="2"/>
+
+  <text x="48" y="132" fill="#F7F3EA" font-family="Arial" font-size="34" font-weight="900">Mais interessado no sistema inteiro</text>
+  <text x="48" y="174" fill="#F7F3EA" font-family="Arial" font-size="34" font-weight="900">do que na parte que cabe no print.</text>
+
+  <text x="48" y="226" fill="#BEB7AA" font-family="Arial" font-size="17">
+    Minha base está no backend: APIs, autenticação, bancos,
+  </text>
+  <text x="48" y="254" fill="#BEB7AA" font-family="Arial" font-size="17">
+    regras de negócio, integrações e infraestrutura de entrega.
+  </text>
+  <text x="48" y="282" fill="#BEB7AA" font-family="Arial" font-size="17">
+    A interface entra quando é necessária para fechar o produto.
+  </text>
+
+  <g transform="translate(48 330)">
+    <rect width="242" height="54" rx="12" fill="#F7F3EA"/>
+    <text x="121" y="34" text-anchor="middle" fill="#171717" font-family="Arial" font-size="14" font-weight="900">APIs · SEGURANÇA · DADOS</text>
+  </g>
+  <g transform="translate(306 330)">
+    <rect width="242" height="54" rx="12" fill="#262522" stroke="#4B4944"/>
+    <text x="121" y="34" text-anchor="middle" fill="#F7F3EA" font-family="Arial" font-size="14" font-weight="900">PRODUTOS · AUTOMAÇÕES</text>
+  </g>
+
+  <g transform="translate(760 102)">
+    <rect width="392" height="282" rx="20" fill="#F7F3EA"/>
+    <text x="26" y="40" fill="#171717" font-family="Arial" font-size="13" font-weight="900" letter-spacing="1.8">ATUAÇÃO / PRODUÇÃO</text>
+    <path d="M26 58H366" stroke="#CEC6B7"/>
+    <circle cx="31" cy="98" r="5" fill="#F45B3A"/>
+    <text x="50" y="104" fill="#171717" font-family="Arial" font-size="17" font-weight="800">Sistemas internos e CRM</text>
+    <circle cx="31" cy="144" r="5" fill="#F45B3A"/>
+    <text x="50" y="150" fill="#171717" font-family="Arial" font-size="17" font-weight="800">Crawlers e automações</text>
+    <circle cx="31" cy="190" r="5" fill="#F45B3A"/>
+    <text x="50" y="196" fill="#171717" font-family="Arial" font-size="17" font-weight="800">CI/CD e infraestrutura</text>
+    <circle cx="31" cy="236" r="5" fill="#F45B3A"/>
+    <text x="50" y="242" fill="#171717" font-family="Arial" font-size="17" font-weight="800">Observabilidade e IA</text>
+  </g>
+</svg>

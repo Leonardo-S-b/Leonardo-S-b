@@ -1,0 +1,42 @@
+<svg width="1200" height="470" viewBox="0 0 1200 470" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="470" rx="28" fill="#171717"/>
+  <text x="48" y="50" fill="#F45B3A" font-family="Arial" font-size="14" font-weight="900" letter-spacing="2">EXPERIENCE / PRODUÇÃO</text>
+  <text x="48" y="96" fill="#F7F3EA" font-family="Arial" font-size="31" font-weight="900">O que já saiu do quadro e foi para o sistema.</text>
+
+  <g transform="translate(48 140)">
+    <rect width="340" height="112" rx="16" fill="#252421" stroke="#45423D"/>
+    <text x="24" y="35" fill="#F45B3A" font-family="Arial" font-size="12" font-weight="900" letter-spacing="1.8">01 / BACKEND</text>
+    <text x="24" y="72" fill="#F7F3EA" font-family="Arial" font-size="18" font-weight="900">APIs e regras de negócio</text>
+    <text x="24" y="96" fill="#BEB7AA" font-family="Arial" font-size="15">com integrações entre serviços.</text>
+  </g>
+  <g transform="translate(430 140)">
+    <rect width="340" height="112" rx="16" fill="#252421" stroke="#45423D"/>
+    <text x="24" y="35" fill="#F45B3A" font-family="Arial" font-size="12" font-weight="900" letter-spacing="1.8">02 / INFRA</text>
+    <text x="24" y="72" fill="#F7F3EA" font-family="Arial" font-size="18" font-weight="900">Docker e Cloudflare</text>
+    <text x="24" y="96" fill="#BEB7AA" font-family="Arial" font-size="15">com pipelines de entrega.</text>
+  </g>
+  <g transform="translate(812 140)">
+    <rect width="340" height="112" rx="16" fill="#252421" stroke="#45423D"/>
+    <text x="24" y="35" fill="#F45B3A" font-family="Arial" font-size="12" font-weight="900" letter-spacing="1.8">03 / OBSERVABILIDADE</text>
+    <text x="24" y="72" fill="#F7F3EA" font-family="Arial" font-size="18" font-weight="900">Grafana e Prometheus</text>
+    <text x="24" y="96" fill="#BEB7AA" font-family="Arial" font-size="15">para alertas e diagnóstico.</text>
+  </g>
+  <g transform="translate(48 284)">
+    <rect width="340" height="112" rx="16" fill="#F45B3A"/>
+    <text x="24" y="35" fill="#171717" font-family="Arial" font-size="12" font-weight="900" letter-spacing="1.8">04 / DADOS</text>
+    <text x="24" y="72" fill="#171717" font-family="Arial" font-size="18" font-weight="900">PostgreSQL e Supabase</text>
+    <text x="24" y="96" fill="#582318" font-family="Arial" font-size="15" font-weight="800">em fluxos reais de produto.</text>
+  </g>
+  <g transform="translate(430 284)">
+    <rect width="340" height="112" rx="16" fill="#F7F3EA"/>
+    <text x="24" y="35" fill="#8D3825" font-family="Arial" font-size="12" font-weight="900" letter-spacing="1.8">05 / AUTOMAÇÕES</text>
+    <text x="24" y="72" fill="#171717" font-family="Arial" font-size="18" font-weight="900">Crawlers e processamento</text>
+    <text x="24" y="96" fill="#5C5852" font-family="Arial" font-size="15">de dados para conteúdo e SEO.</text>
+  </g>
+  <g transform="translate(812 284)">
+    <rect width="340" height="112" rx="16" fill="#F7F3EA"/>
+    <text x="24" y="35" fill="#8D3825" font-family="Arial" font-size="12" font-weight="900" letter-spacing="1.8">06 / IA</text>
+    <text x="24" y="72" fill="#171717" font-family="Arial" font-size="18" font-weight="900">IA aplicada ao produto</text>
+    <text x="24" y="96" fill="#5C5852" font-family="Arial" font-size="15">em fluxos e geração de conteúdo.</text>
+  </g>
+</svg>

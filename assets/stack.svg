@@ -1,0 +1,30 @@
+<svg width="1200" height="560" viewBox="0 0 1200 560" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="560" rx="28" fill="#F7F3EA"/>
+  <text x="48" y="50" fill="#171717" font-family="Arial" font-size="14" font-weight="900" letter-spacing="2">STACK / FLUXO TÉCNICO</text>
+  <text x="48" y="96" fill="#171717" font-family="Arial" font-size="31" font-weight="900">Tecnologias organizadas pelo papel no sistema.</text>
+  <path d="M48 118H1152" stroke="#171717" stroke-opacity=".24"/>
+
+  <g transform="translate(48 150)">
+    <rect width="1104" height="80" rx="16" fill="#171717"/>
+    <text x="26" y="31" fill="#F45B3A" font-family="Arial" font-size="12" font-weight="900" letter-spacing="2">01 / BACKEND</text>
+    <text x="26" y="59" fill="#F7F3EA" font-family="Arial" font-size="21" font-weight="900">TypeScript · Node.js · Express · REST · JWT · OAuth · Zod</text>
+  </g>
+
+  <g transform="translate(48 248)">
+    <rect width="1104" height="80" rx="16" fill="#DED6C8" stroke="#171717" stroke-width="2"/>
+    <text x="26" y="31" fill="#8D3825" font-family="Arial" font-size="12" font-weight="900" letter-spacing="2">02 / DADOS</text>
+    <text x="26" y="59" fill="#171717" font-family="Arial" font-size="21" font-weight="900">PostgreSQL · Supabase · Prisma · MySQL · modelagem · migrations</text>
+  </g>
+
+  <g transform="translate(48 346)">
+    <rect width="1104" height="80" rx="16" fill="#F45B3A"/>
+    <text x="26" y="31" fill="#171717" font-family="Arial" font-size="12" font-weight="900" letter-spacing="2">03 / INFRA &amp; ENTREGA</text>
+    <text x="26" y="59" fill="#171717" font-family="Arial" font-size="21" font-weight="900">Docker · GitHub Actions · Cloudflare · Linux · Grafana · Prometheus</text>
+  </g>
+
+  <g transform="translate(48 444)">
+    <rect width="1104" height="80" rx="16" fill="#FFFFFF" stroke="#171717" stroke-width="2"/>
+    <text x="26" y="31" fill="#8D3825" font-family="Arial" font-size="12" font-weight="900" letter-spacing="2">04 / PRODUTO</text>
+    <text x="26" y="59" fill="#171717" font-family="Arial" font-size="21" font-weight="900">React · Astro · Tailwind · Flutter · Dart · integração entre interface e domínio</text>
+  </g>
+</svg>

@@ -1,0 +1,32 @@
+<svg width="1200" height="410" viewBox="0 0 1200 410" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="410" rx="28" fill="#F7F3EA"/>
+  <text x="48" y="50" fill="#171717" font-family="Arial" font-size="14" font-weight="900" letter-spacing="2">GITHUB / TRABALHO VISÍVEL</text>
+  <text x="48" y="96" fill="#171717" font-family="Arial" font-size="31" font-weight="900">Código, experimentos e evolução documentada.</text>
+  <path d="M48 118H1152" stroke="#171717" stroke-opacity=".24"/>
+
+  <g transform="translate(48 156)">
+    <rect width="340" height="180" rx="18" fill="#171717"/>
+    <text x="24" y="38" fill="#F45B3A" font-family="Arial" font-size="12" font-weight="900" letter-spacing="1.8">01 / FOCO</text>
+    <text x="24" y="82" fill="#F7F3EA" font-family="Arial" font-size="24" font-weight="900">Backend</text>
+    <text x="24" y="112" fill="#F7F3EA" font-family="Arial" font-size="24" font-weight="900">Arquitetura</text>
+    <text x="24" y="142" fill="#F7F3EA" font-family="Arial" font-size="24" font-weight="900">Infraestrutura</text>
+  </g>
+
+  <g transform="translate(430 156)">
+    <rect width="340" height="180" rx="18" fill="#DED6C8" stroke="#171717" stroke-width="2"/>
+    <text x="24" y="38" fill="#8D3825" font-family="Arial" font-size="12" font-weight="900" letter-spacing="1.8">02 / PRÁTICA</text>
+    <text x="24" y="82" fill="#171717" font-family="Arial" font-size="24" font-weight="900">APIs</text>
+    <text x="24" y="112" fill="#171717" font-family="Arial" font-size="24" font-weight="900">Testes</text>
+    <text x="24" y="142" fill="#171717" font-family="Arial" font-size="24" font-weight="900">Deploys</text>
+  </g>
+
+  <g transform="translate(812 156)">
+    <rect width="340" height="180" rx="18" fill="#F45B3A"/>
+    <text x="24" y="38" fill="#171717" font-family="Arial" font-size="12" font-weight="900" letter-spacing="1.8">03 / EM EVOLUÇÃO</text>
+    <text x="24" y="82" fill="#171717" font-family="Arial" font-size="24" font-weight="900">Mensageria</text>
+    <text x="24" y="112" fill="#171717" font-family="Arial" font-size="24" font-weight="900">Observabilidade</text>
+    <text x="24" y="142" fill="#171717" font-family="Arial" font-size="24" font-weight="900">Sistemas distribuídos</text>
+  </g>
+
+  <text x="48" y="374" fill="#6D675F" font-family="Arial" font-size="13" font-weight="800">PERFIL: github.com/Leonardo-S-b</text>
+</svg>
