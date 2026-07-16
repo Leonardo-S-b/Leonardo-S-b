@@ -1,0 +1,46 @@
+<svg width="1200" height="760" viewBox="0 0 1200 760" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="760" rx="28" fill="#E9E0D2"/>
+  <text x="48" y="50" fill="#171717" font-family="Arial" font-size="14" font-weight="900" letter-spacing="2">BOARD / PROJETOS</text>
+  <text x="48" y="96" fill="#171717" font-family="Arial" font-size="31" font-weight="900">Projetos em contexto.</text>
+  <text x="48" y="126" fill="#5C5852" font-family="Arial" font-size="17">Arquitetura, decisões e resultado. Não apenas uma lista de tecnologias.</text>
+
+  <g transform="translate(48 164)">
+    <rect width="528" height="250" rx="20" fill="#171717"/>
+    <text x="26" y="39" fill="#F45B3A" font-family="Arial" font-size="13" font-weight="900" letter-spacing="2">APP-01 / CASE PRINCIPAL</text>
+    <text x="26" y="82" fill="#F7F3EA" font-family="Arial" font-size="29" font-weight="900">Clima Agora</text>
+    <text x="26" y="113" fill="#BFB8AC" font-family="Arial" font-size="16">Mobile + APIs + IA</text>
+    <text x="26" y="156" fill="#F7F3EA" font-family="Arial" font-size="16">Clima, geolocalização, rotas e planejamento</text>
+    <text x="26" y="181" fill="#F7F3EA" font-family="Arial" font-size="16">de viagem em uma experiência multiplataforma.</text>
+    <text x="26" y="220" fill="#F45B3A" font-family="Arial" font-size="12" font-weight="900">FLUTTER · NODE · DOCKER</text>
+  </g>
+
+  <g transform="translate(624 164)">
+    <rect width="528" height="250" rx="20" fill="#F7F3EA" stroke="#171717" stroke-width="2"/>
+    <text x="26" y="39" fill="#8D3825" font-family="Arial" font-size="13" font-weight="900" letter-spacing="2">API-03 / BACKEND</text>
+    <text x="26" y="82" fill="#171717" font-family="Arial" font-size="29" font-weight="900">AgenViagem</text>
+    <text x="26" y="113" fill="#5C5852" font-family="Arial" font-size="16">API + segurança</text>
+    <text x="26" y="156" fill="#171717" font-family="Arial" font-size="16">Autenticação, níveis de acesso, recuperação</text>
+    <text x="26" y="181" fill="#171717" font-family="Arial" font-size="16">de senha, auditoria, documentação e soft delete.</text>
+    <text x="26" y="220" fill="#8D3825" font-family="Arial" font-size="12" font-weight="900">TYPESCRIPT · PRISMA · JWT</text>
+  </g>
+
+  <g transform="translate(48 454)">
+    <rect width="528" height="250" rx="20" fill="#F7F3EA" stroke="#171717" stroke-width="2"/>
+    <text x="26" y="39" fill="#8D3825" font-family="Arial" font-size="13" font-weight="900" letter-spacing="2">ARC-02 / DEEP DIVE</text>
+    <text x="26" y="82" fill="#171717" font-family="Arial" font-size="29" font-weight="900">Minhas Economias</text>
+    <text x="26" y="113" fill="#5C5852" font-family="Arial" font-size="16">Dados + sincronização</text>
+    <text x="26" y="156" fill="#171717" font-family="Arial" font-size="16">Controle financeiro com API, persistência e</text>
+    <text x="26" y="181" fill="#171717" font-family="Arial" font-size="16">sincronização de mudanças entre dispositivos.</text>
+    <text x="26" y="220" fill="#8D3825" font-family="Arial" font-size="12" font-weight="900">FLUTTER · EXPRESS · POSTGRES</text>
+  </g>
+
+  <g transform="translate(624 454)">
+    <rect width="528" height="250" rx="20" fill="#F45B3A"/>
+    <text x="26" y="39" fill="#171717" font-family="Arial" font-size="13" font-weight="900" letter-spacing="2">WEB-04 / PRODUTO REAL</text>
+    <text x="26" y="82" fill="#171717" font-family="Arial" font-size="29" font-weight="900">Mauricio Furquin</text>
+    <text x="26" y="113" fill="#582318" font-family="Arial" font-size="16" font-weight="800">Produto full-stack</text>
+    <text x="26" y="156" fill="#171717" font-family="Arial" font-size="16" font-weight="800">Galerias, uploads, autenticação, gestão de</text>
+    <text x="26" y="181" fill="#171717" font-family="Arial" font-size="16" font-weight="800">eventos e painel administrativo.</text>
+    <text x="26" y="220" fill="#171717" font-family="Arial" font-size="12" font-weight="900">REACT · TYPESCRIPT · MYSQL</text>
+  </g>
+</svg>
