@@ -1,107 +1,59 @@
-<h1 align="center">👋 Olá, eu sou Leonardo Bezerra</h1>
-<h3 align="center">Desenvolvedor em formação | Focado em JavaScript e Backend</h3>
-
----
-
-## 🚀 Sobre mim
-
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas
-- 💡 Focado em desenvolvimento backend e lógica de programação
-- 🏗️ Atualmente construindo um MVP de meteorologia em Flutter
-- 📈 Evoluindo constantemente em boas práticas e arquitetura
-
----
-
-## 🧠 Tecnologias principais
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,nodejs,express,html,css,git,github,vscode" />
+<a href="https://leonardo-portfolio.leonardo-souza-dev.workers.dev/">
+  <img src="./assets/hero.svg" width="100%" alt="Leonardo Bezerra" />
+</a>
 
-</div>
+<br><br>
 
----
-
-## 📚 Atualmente estudando
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=flutter,react,typescript" />
-
-</div>
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Leonardo-S-b&show_icons=true" /> 
-
-</div>
-
----
-
-## 🔥 Streak de commits
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Leonardo-S-b&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 📈 Gráfico de atividade
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Leonardo-S-b&theme=tokyo-night&hide_border=true" />
-
-</div>
-
----
-
-## 🏗️ Projetos em destaque
-
-### 💳 Sistema Bancário em JavaScript
-- Cadastro de usuários
-- Saque e depósito
-- Extrato
-- Futuro: análise de crédito
-
-### 🌦️ App de Meteorologia (Flutter)
-- Consumo de API de clima
-- Busca por cidade
-- Interface mobile
-- Estrutura de navegação
-
-### 🌐 Projeto Web (HTML & CSS)
-- Estrutura de navegação
-- Responsividade básica
-
----
-
-## 🌎 Conecte-se comigo
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/leonardo-souza-bezerra-15247a355/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="https://www.linkedin.com/in/leonardo-souza-bezerra-15247a355/">
+  <img src="https://img.shields.io/badge/LinkedIn-171717?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="mailto:jonidjg@hotmail.com">
-  <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/Email-F45B3A?style=for-the-badge&logo=gmail&logoColor=171717">
 </a>
 
-<a href="https://github.com/Leonardo-S-b">
-  <img src="https://img.shields.io/badge/-GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white">
+<a href="https://leonardo-portfolio.leonardo-souza-dev.workers.dev">
+  <img src="https://img.shields.io/badge/Portfolio-171717?style=for-the-badge&logo=cloudflare&logoColor=white">
 </a>
 
 </div>
 
 ---
 
-## ✨ Filosofia
+<img src="./assets/profile.svg" width="100%" />
 
-> Código limpo, simples e funcional sempre vence complexidade desnecessária.
+---
+
+<img src="./assets/stack.svg" width="100%" />
+
+---
+
+## 🚀 Projetos
+
+<img src="./assets/projects.svg" width="100%" />
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Leonardo-S-b&show_icons=true&hide_border=true"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-S-b&layout=compact&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Leonardo-S-b&hide_border=true"/>
+
+</div>
+
+---
+
+<img src="./assets/footer.svg" width="100%" />
